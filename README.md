@@ -50,15 +50,15 @@ Hey there! Welcome to my tech journey. I'm not just a developer; I'm an enthusia
 I'm not just about code; I'm about connections and collaborations. Reach out to me:
 
 - 📧 Email: [alyhassan862@gmail.com](mailto:alyhassan862@gmail.com)
-- 🌐 LinkedIn: [https://www.linkedin.com/in/ali-hassan90/]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/ali-hassan90/))
+- 🌐 LinkedIn: [https://www.linkedin.com/in/ali-hassan90](https://www.linkedin.com/in/ali-hassan90/)
 ---
 
 ## 🚀 Recent Exploits
 
 Here are a few recent missions I undertook:
 
-1. **Golang Microservices**: Developed scalable microservices using Golang for optimal performance.
-2. **Kubernetes Clusters**: Orchestrated Kubernetes clusters for seamless, containerized deployments.
+1. **Python Microservices**: Developed scalable microservices using python(Fastapi) for bio-Informatics startup.
+2. **Vulnerability Management System**: Architecting OneVM, A single vulnerability management system with seamless integration of all security tools.
 3. **DevSecOps Integration**: Infused security into the DevOps pipeline for a resilient and secure development lifecycle.
 
 ---
