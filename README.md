@@ -1,6 +1,6 @@
 # 🚀 Hey, Fellow Explorer! I'm Ali Hassan
 
-👨‍💻 Backend Python Developer | 🌐 Frontend Enthusiast | ☁️ DevOps & DevSecOps Explorer | 🚀 Golang & Kubernetes Adventurer
+👨‍💻 Backend Python Developer | 🌐 Distributed Systems Enthusiast | ☁️ DevOps & DevSecOps Explorer | 🚀 Golang & Kubernetes Adventurer
 
 ---
 
