@@ -12,6 +12,7 @@ Building intelligent search experiences using:
 - 🧠 **LangChain + LangGraph**
 - 📚 **Vector Databases**
 - 🔎 **Elasticsearch**
+- 🕸️ **Neo4j (Graph Search & Knowledge Graphs)**
 
 ---
 
