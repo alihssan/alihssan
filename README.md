@@ -1,6 +1,6 @@
 # 🚀 Hey, I'm Ali Hassan
 
-👨‍💻 Backend Python Developer | 🤖 AI/ML & LLM Engineer | ☁️ DevOps Explorer  
+👨‍💻 Backend Python Developer | 🤖 AI/ML & LLM Engineer | ☁️ DevSecOps Explorer  
 ![Profile Views](https://komarev.com/ghpvc/?username=alihssan)
 
 ---
